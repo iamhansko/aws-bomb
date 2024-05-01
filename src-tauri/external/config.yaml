@@ -1,0 +1,8 @@
+regions: 
+- "us-east-1"
+- "ap-northeast-2"
+- "global"
+account-blocklist: 
+- "999999999999" 
+accounts: 
+  "000000000000": {} 

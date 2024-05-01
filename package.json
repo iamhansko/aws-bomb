@@ -1,0 +1,31 @@
+{
+  "name": "bomb",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "tauri": "tauri",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@aws-sdk/client-iam": "^3.490.0",
+    "@tauri-apps/api": "^1.4.0",
+    "@types/node": "20.4.8",
+    "@types/react": "18.2.18",
+    "@types/react-dom": "18.2.7",
+    "@types/react-syntax-highlighter": "^15.5.7",
+    "eslint": "8.46.0",
+    "eslint-config-next": "13.4.12",
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-syntax-highlighter": "^15.5.0",
+    "typescript": "5.1.6",
+    "yaml": "^2.3.1"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.5.9"
+  }
+}
