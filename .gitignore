@@ -2,7 +2,7 @@
 
 # output
 src-tauri/external/*.exe
-src-tauri/external/aws-nuke-x86_64-apple-darwin
+src-tauri/external/aws-nuke-aarch64-apple-darwin
 
 # dependencies
 /node_modules
