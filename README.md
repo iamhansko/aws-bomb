@@ -10,7 +10,7 @@
 2. Install Rust and Dependencies ([Reference](https://tauri.app/ko/v1/guides/getting-started/prerequisites)).
 3. (Windows) Unzip `/src-tauri/external/aws-nuke-x86_64-pc-windows-msvc.zip`
     
-    (MacOS) Unzip `/src-tauri/external/aws-nuke-x86_64-apple-darwin.zip`
+    (MacOS) Unzip `/src-tauri/external/aws-nuke-aarch64-apple-darwin.zip`
 
 ## Dev Stage
 ```(shell)
