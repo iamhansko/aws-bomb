@@ -1,6 +1,9 @@
 # 💣 AWS Bomb
 
+![Click Once, Delete All](/docs/preview.png)
+
 ### 💥 Delete all of your AWS resources with just one click 💥
+Manually deleting resources every time you conduct exercises or simple tests on AWS can be tedious. This tool is convenient because it allows you to delete resources all at once.
 
 > [!NOTE]
 > Forked from [aws-nuke](https://github.com/rebuy-de/aws-nuke.git)
